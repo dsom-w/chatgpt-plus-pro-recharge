@@ -1,0 +1,16 @@
+# ChatGPT 充值入口
+
+> ChatGPT 怎么充值？国内用支付宝、微信给自己的账号充值 ChatGPT Plus / Pro 的入口和 4 步流程，附实测截图与人民币价格；按 OpenAI 官方定价页对比 Free、Go、Plus、Pro 各档区别，并整理充值没到账、校验失败、付款未获批准等常见问题的解决办法。
+
+## 页面
+
+- [ChatGPT 充值入口与教程 2026：Plus / Pro 支付宝微信 4 步开通，Go、Plus、Pro 各档区别](https://dsom-w.github.io/chatgpt-plus-pro-recharge/): ChatGPT 怎么充值？国内用支付宝、微信给自己的账号充值 ChatGPT Plus / Pro 的入口和 4 步流程，附实测截图与人民币价格；按 OpenAI 官方定价页对比 Free、Go、Plus、Pro 各档区别，并整理充值没到账、校验失败、付款未获批准等常见问题的解决办法。
+- [ChatGPT 订阅怎么取消、可以退款吗：官方规则与充值到期的区别](https://dsom-w.github.io/chatgpt-plus-pro-recharge/cancel-refund/): ChatGPT 订阅后怎么取消、可以退款吗？按 OpenAI 帮助中心说明网页、App Store、Google Play 三种订阅的取消入口、取消后还能用多久、退款条件与处理时间，并说明用支付宝微信充值的会员为什么不用取消、充值失败怎么退。
+- [ChatGPT Go、Plus、Pro 区别：按官方定价页逐项对比，该充哪一档](https://dsom-w.github.io/chatgpt-plus-pro-recharge/go-plus-pro/): ChatGPT Go、Plus、Pro 有什么区别？按 OpenAI 官方定价页和帮助中心逐项对比模型、图像、深度研究、Codex 用量、广告和计费方式，给出免费版够不够用、什么时候该升 Plus、什么时候该升 Pro 的判断标准。
+- [ChatGPT 充值后还是免费版？付了款没到账的 7 种情况与处理办法](https://dsom-w.github.io/chatgpt-plus-pro-recharge/not-active/): ChatGPT 充值后还显示免费版、付了款订单没完成、校验账号失败怎么办？按订单状态、账号、页面缓存的顺序排查 7 种常见情况，分别说明在第三方平台充值和在官网、App Store、Google Play 订阅时的处理办法，避免重复付款。
+- [ChatGPT Pro 100、Pro 200、Pro 500 区别：月费、用量与超快模式怎么选](https://dsom-w.github.io/chatgpt-plus-pro-recharge/pro-100-200-500/): ChatGPT Pro 现在分 Pro 100、Pro 200、Pro 500 三档，官方月费 100 / 200 / 500 美元。本页按 OpenAI 帮助中心说明三档在用量和超快模式上的区别、Pro 200 用量调整后的现状，以及国内用支付宝微信充值各档的人民币价格和选档建议。
+
+## 来源
+
+- 仓库：https://github.com/dsom-w/chatgpt-plus-pro-recharge
+- 内容许可：CC BY-NC-SA 4.0
