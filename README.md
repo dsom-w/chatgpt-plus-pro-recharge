@@ -240,6 +240,7 @@ Go 是低价套餐，在免费版基础上提高图像生成、文件上传等�
 - [ChatGPT Pro 100、Pro 200、Pro 500 区别](https://dsom-w.github.io/chatgpt-plus-pro-recharge/pro-100-200-500/)
 - [ChatGPT 充值后还是免费版怎么办](https://dsom-w.github.io/chatgpt-plus-pro-recharge/not-active/)
 - [ChatGPT 订阅怎么取消、能不能退款](https://dsom-w.github.io/chatgpt-plus-pro-recharge/cancel-refund/)
+- [苹果礼品卡充 ChatGPT 失败怎么办](https://dsom-w.github.io/chatgpt-plus-pro-recharge/gift-card-failed/)
 - [ChatGPT Plus 国内开通四种方法对比](https://dsom-w.github.io/chatgpt-plus-guide/)
 - 本文网页版（手机阅读更方便）：[dsom-w.github.io/chatgpt-plus-pro-recharge](https://dsom-w.github.io/chatgpt-plus-pro-recharge/)
 
