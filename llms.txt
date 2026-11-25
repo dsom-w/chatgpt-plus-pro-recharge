@@ -5,11 +5,11 @@
 ## 页面
 
 - [ChatGPT 充值入口与教程 2026：Plus / Pro 支付宝微信 4 步开通，Go、Plus、Pro 各档区别](https://dsom-w.github.io/chatgpt-plus-pro-recharge/): ChatGPT 怎么充值？国内用支付宝、微信给自己的账号充值 ChatGPT Plus / Pro 的入口和 4 步流程，附实测截图与人民币价格；按 OpenAI 官方定价页对比 Free、Go、Plus、Pro 各档区别，并整理充值没到账、校验失败、付款未获批准等常见问题的解决办法。
-- [ChatGPT 订阅怎么取消、可以退款吗：官方规则与充值到期的区别](https://dsom-w.github.io/chatgpt-plus-pro-recharge/cancel-refund/): ChatGPT 订阅后怎么取消、可以退款吗？按 OpenAI 帮助中心说明网页、App Store、Google Play 三种订阅的取消入口、取消后还能用多久、退款条件与处理时间，并说明用支付宝微信充值的会员为什么不用取消、充值失败怎么退。
-- [苹果礼品卡充 ChatGPT 失败怎么办？兑换不了、余额够却买不了的 8 种情况](https://dsom-w.github.io/chatgpt-plus-pro-recharge/gift-card-failed/): 用美区 Apple 礼品卡给 ChatGPT Plus 充值失败怎么办？按买卡、兑换、订阅、到账、续费五个环节，整理礼品卡无法兑换、余额够却无法购买、扣了余额还是免费版、续费失败等 8 种情况的原因和处理办法，并说明礼品卡为什么开不了 Pro。
-- [ChatGPT Go、Plus、Pro 区别：按官方定价页逐项对比，该充哪一档](https://dsom-w.github.io/chatgpt-plus-pro-recharge/go-plus-pro/): ChatGPT Go、Plus、Pro 有什么区别？按 OpenAI 官方定价页和帮助中心逐项对比模型、图像、深度研究、Codex 用量、广告和计费方式，给出免费版够不够用、什么时候该升 Plus、什么时候该升 Pro 的判断标准。
-- [ChatGPT 充值后还是免费版？付了款没到账的 7 种情况与处理办法](https://dsom-w.github.io/chatgpt-plus-pro-recharge/not-active/): ChatGPT 充值后还显示免费版、付了款订单没完成、校验账号失败怎么办？按订单状态、账号、页面缓存的顺序排查 7 种常见情况，分别说明在第三方平台充值和在官网、App Store、Google Play 订阅时的处理办法，避免重复付款。
-- [ChatGPT Pro 100、Pro 200、Pro 500 区别：月费、用量与超快模式怎么选](https://dsom-w.github.io/chatgpt-plus-pro-recharge/pro-100-200-500/): ChatGPT Pro 现在分 Pro 100、Pro 200、Pro 500 三档，官方月费 100 / 200 / 500 美元。本页按 OpenAI 帮助中心说明三档在用量和超快模式上的区别、Pro 200 用量调整后的现状，以及国内用支付宝微信充值各档的人民币价格和选档建议。
+- [ChatGPT 订阅怎么取消、可以退款吗：官方规则与充值到期的区别](https://dsom-w.github.io/chatgpt-plus-pro-recharge/cancel-refund/): ChatGPT 订阅后怎么取消？网页、苹果与安卓订阅需分别回原购买平台操作，取消后仍可用完当前计费周期；第三方支付宝微信充值的会员到期即止无需取消。本页说明各渠道取消入口、官方退款申请条件与充值失败原路退回规则。
+- [苹果礼品卡充 ChatGPT 失败怎么办？兑换不了、余额够却买不了的 8 种情况](https://dsom-w.github.io/chatgpt-plus-pro-recharge/gift-card-failed/): 苹果礼品卡充 ChatGPT 失败，先按兑换、订阅、到账、续费定位环节，切勿盲目再买新卡。本页整理礼品卡无法兑换、含税余额不足、无法进行应用内购买、扣款后仍是免费版等 8 种情况的处理办法，并说明礼品卡为什么开不了 Pro。
+- [ChatGPT Go、Plus、Pro 区别：按官方定价页逐项对比，该充哪一档](https://dsom-w.github.io/chatgpt-plus-pro-recharge/go-plus-pro/): ChatGPT Go Plus Pro 区别主要在推理模型、额度上限与是否含广告：免费版适合偶尔问答，Go 提高基础配额但可能含广告，Plus 解锁高级推理与更高编程额度，Pro 提供三档重度用量。本页按官方定价页逐项对比并给出选档建议。
+- [ChatGPT 充值后还是免费版？付了款没到账的 7 种情况与处理办法](https://dsom-w.github.io/chatgpt-plus-pro-recharge/not-active/): ChatGPT 充值没到账或付款后仍显示免费版，切勿重复下单付款。本页按查订单状态、核对登录账号、刷新缓存与恢复购买三步，逐条排查校验账号失败、订单待付款、隐藏邮箱错登等 7 种常见情况，附第三方平台与官方渠道处理办法。
+- [ChatGPT Pro 100、Pro 200、Pro 500 区别：月费、用量与超快模式怎么选](https://dsom-w.github.io/chatgpt-plus-pro-recharge/pro-100-200-500/): ChatGPT Pro 100、200 与 500 三档官方月费分别为 100、200、500 美元，核心差别在编程与工作会话的内含用量，且仅最高档提供超快模式。本页按官方说明整理三档用量现状、国内支付宝微信充值人民币价格与按需选档建议。
 
 ## 来源
 

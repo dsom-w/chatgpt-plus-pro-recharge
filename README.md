@@ -1,8 +1,10 @@
 # ChatGPT 充值入口与教程 2026：Plus / Pro 支付宝微信 4 步开通，Go、Plus、Pro 各档区别
 
-> 最后更新：2026 年 11 月 11 日 · 人民币价格按当天 OKAI66 套餐页核对；套餐权益按当天 OpenAI 官方定价页与帮助中心核对，出处列在文末。发现过期内容欢迎提 Issue。
+> 最后更新：2026 年 11 月 25 日 · 人民币价格按文末核对日 OKAI66 套餐页核对；套餐权益按 OpenAI 官方定价页与帮助中心核对，出处列在文末。发现过期内容欢迎提 Issue。
 
 **👉 [ChatGPT 充值入口：支付宝 / 微信开通 Plus / Pro，okai66.com](https://okai66.com/?utm_source=github&utm_medium=readme&utm_campaign=recharge-top)**
+
+ChatGPT 充值在国内分两条路：有海外信用卡可在官网升级，没有海外卡可通过第三方平台用支付宝或微信按月开通 Plus 与 Pro，只需提交不含密码的会话信息，直接充到自己账号上。
 
 没时间看全文，先看这 5 条：
 
@@ -14,8 +16,8 @@
 
 ## 目录
 
-- [ChatGPT 充值 4 步流程（支付宝 / 微信，附截图）](#chatgpt-充值-4-步流程支付宝--微信附截图)
-- [ChatGPT 充值价格：Plus、Pro 各档人民币多少钱](#chatgpt-充值价格pluspro-各档人民币多少钱)
+- [充值 4 步流程（支付宝 / 微信，附截图）](#chatgpt-充值-4-步流程支付宝--微信附截图)
+- [Plus、Pro 各档人民币充值价格](#chatgpt-充值价格pluspro-各档人民币多少钱)
 - [ChatGPT Free、Go、Plus、Pro 区别（按官方定价页）](#chatgpt-freegopluspro-区别按官方定价页)
 - [Plus 和 Pro 怎么选](#plus-和-pro-怎么选)
 - [充值前先确认这 5 件事](#充值前先确认这-5-件事)
@@ -26,11 +28,11 @@
 
 ## ChatGPT 充值 4 步流程（支付宝 / 微信，附截图）
 
-OpenAI 官方定价页写的付款方式是信用卡，帮助中心列出的各地区本地付款方式里没有支付宝和微信，支持的国家 / 地区列表里也没有中国大陆。所以国内用支付宝、微信充值，走的都是第三方平台。下面是在 [OKAI66](https://okai66.com/?utm_source=github&utm_medium=readme&utm_campaign=recharge-steps-intro) 上的实际流程，Plus 和 Pro 各档操作完全一样。
+OpenAI 官方定价页写的付款方式是信用卡，帮助中心列出的各地区本地付款方式里没有支付宝和微信，支持的国家 / 地区列表里也没有中国大陆。所以做 ChatGPT 国内充值用支付宝、微信付款，走的都是第三方平台。下面是在 [OKAI66](https://okai66.com/?utm_source=github&utm_medium=readme&utm_campaign=recharge-steps-intro) 上的实际流程，ChatGPT Plus 充值与 ChatGPT Pro 充值各档操作完全一样。
 
 截图是 2026 年 10 月的界面，价格做了遮盖；现在套餐页多了 Pro 500 一档，其余步骤没变。
 
-### 第 1 步：选择套餐
+### 第 1 步：选择 ChatGPT Plus 或 Pro 充值套餐
 
 打开 [套餐页](https://okai66.com/plus-price?utm_source=github&utm_medium=readme&utm_campaign=recharge-step1)，选 Plus、Pro 100、Pro 200 或 Pro 500，点「立即升级」进入下单页。
 
@@ -54,23 +56,23 @@ OpenAI 官方定价页写的付款方式是信用卡，帮助中心列出的各�
 
 如果账号已经是 Plus 或 Pro，页面会要求勾选「确认覆盖」。新套餐会替换原会员，原来剩下的天数不会叠加，离到期还很久的话建议到期后再充。
 
-### 第 3 步：确认订单，支付宝或微信付款
+### 第 3 步：确认订单并用支付宝或微信付款
 
 填一个常用手机号或邮箱（只用来以后查订单），确认订单。
 
-![填写联系方式并确认 ChatGPT 充值订单](images/chatgpt/3-1-confirm.webp)
+![填写联系方式并确认 Plus 充值订单](images/chatgpt/3-1-confirm.webp)
 
-进入订单页后选支付宝或微信。电脑上是扫码，手机上会直接跳到支付宝或微信 App。
+进入订单页后选支付宝或微信。电脑上是扫码，手机上会直接跳到支付宝或微信 App；没有苹果设备的手机用户同样适用，细节见 [安卓 ChatGPT Plus](https://imi0801.github.io/chatgpt-plus-recharge-guide/android/)。
 
 ![在订单页选择支付宝或微信付款](images/chatgpt/3-2-pay.webp)
 
 支付通道手续费由买家承担，实付金额以支付页面显示为准。未付款的订单 30 分钟后会自动关闭。
 
-### 第 4 步：等自动到账，回 ChatGPT 核对
+### 第 4 步：等待自动到账并回 ChatGPT 核对套餐
 
 付款后系统自动充值，订单页会依次显示「已付款 → 充值中 → 完成」。
 
-![订单页显示 ChatGPT 充值已完成](images/chatgpt/4-1-success.webp)
+![订单页显示 Plus 充值已完成](images/chatgpt/4-1-success.webp)
 
 完成后回到 ChatGPT 刷新页面，没变化就退出重新登录，在设置的账户 / 账单页确认已经显示对应套餐。
 
@@ -177,11 +179,11 @@ OpenAI 官方定价页写的付款方式是信用卡，帮助中心列出的各�
 4. **清除浏览器缓存和 Cookie 后重试。**
 5. **联系发卡银行。** 官方说明他们通常拿不到银行的具体拒绝原因，直接问银行最快。
 
-不要用同一张卡反复重试。几次都过不了，说明这张卡的发卡地区或风控不符合要求，换卡或换方式更有效。
+不要用同一张卡反复重试。几次都过不了，说明这张卡的发卡地区或风控不符合要求，完整排查见 [ChatGPT 付款失败](https://imi0801.github.io/chatgpt-plus-guide/chatgpt-payment-declined/)。
 
 还有两条官方规则值得知道：
 
-- **在支持地区之外访问，官方写明可能导致账号被封禁或暂停。** 平时尽量固定网络环境，不要多人多地共用一个账号。
+- **在支持地区之外访问，官方写明可能导致账号被封禁或暂停。** 平时尽量固定网络环境，不要多人多地共用一个账号；封号与掉订阅的区别见 [ChatGPT 代充会封号吗](https://imi0801.github.io/chatgpt-plus-recharge-guide/account-ban/)。
 - **订阅不能在账号之间转移或共享。** 换账号登录不会把会员带过去，充值前务必确认账号。
 
 没有海外卡的话，直接用支付宝或微信充值更省事：
@@ -194,11 +196,11 @@ OpenAI 官方定价页写的付款方式是信用卡，帮助中心列出的各�
 
 官网入口是登录 chatgpt.com 后点头像，选「升级套餐」，只能用信用卡等官方支持的付款方式。用支付宝或微信充值，入口是 okai66.com 的套餐页，选好套餐后按 4 步操作。
 
-### Q：ChatGPT 充值需要提供账号密码吗？
+### Q：支付宝微信充值 ChatGPT 需要提供账号密码吗？
 
-不需要。只用到账号的会话信息，它不包含密码，不能用来修改邮箱、密码或付款方式。OKAI66 说明会话信息加密保存、仅用于本次充值，充值完成后自动删除。不放心的话，充值完成后在 ChatGPT 设置里「退出所有设备」再重新登录即可。
+不需要密码，只用到不包含密码的临时会话信息，不能修改邮箱、密码或付款方式。OKAI66 说明该信息仅用于本次充值并自动删除；充完后在设置里点「退出所有设备」也会立刻失效。
 
-### Q：ChatGPT Plus 一个月多少钱？
+### Q：ChatGPT Plus 多少钱一个月？
 
 官方月费 20 美元。2026 年 11 月 11 日 OKAI66 的支付宝 / 微信充值价是 ¥165 / 月，在线付款另有支付通道手续费，以套餐页和支付页面显示为准。
 
@@ -210,11 +212,11 @@ Pro 包含 Plus 的全部内容，另外有 Pro 推理模型、更长的 Codex �
 
 Go 是低价套餐，在免费版基础上提高图像生成、文件上传等功能的额度，官方注明可能包含广告，推理用的是 GPT-5.6 Luna，不含 GPT-5.6 Sol。Plus 有高级推理模型、增强版深度研究、项目和计划任务，Codex 用量也更高。
 
-### Q：充值后多久到账？
+### Q：支付宝或微信充值后多久到账？
 
 付款后系统自动充值，通常几分钟完成，订单页会实时显示进度。等了较久没变化，带订单号联系客服。
 
-### Q：充值的会员会自动续费吗？
+### Q：充值的 ChatGPT 会员会自动续费吗？
 
 不会。在 OKAI66 充值的套餐按月开通，到期即止，不会自动扣款。到期后想继续用，再下一单即可，流程和第一次相同。
 
@@ -222,11 +224,11 @@ Go 是低价套餐，在免费版基础上提高图像生成、文件上传等�
 
 可以。校验账号时系统会识别当前套餐，勾选「确认覆盖」后继续。新套餐生效后替换原会员，原会员剩余天数不叠加。
 
-### Q：手机上能完成充值吗？
+### Q：手机浏览器上能完成充值吗？
 
 能。难点是复制会话信息：用系统自带浏览器登录 ChatGPT，打开会话信息页面后用「全选」再复制，不要长按拖选。付款环节手机更方便，会直接跳到支付宝或微信。
 
-### Q：没充成功钱会退吗？
+### Q：没充成功钱会退回原账户吗？
 
 会。充值失败的订单原路退款。如果是在官网自己订阅，官方规则是付款通常不可退，未使用的个人订阅在扣款后七天内联系可能获得酌情退款。
 
@@ -238,7 +240,7 @@ Go 是低价套餐，在免费版基础上提高图像生成、文件上传等�
 
 - [ChatGPT Go、Plus、Pro 区别详解](https://dsom-w.github.io/chatgpt-plus-pro-recharge/go-plus-pro/)
 - [ChatGPT Pro 100、Pro 200、Pro 500 区别](https://dsom-w.github.io/chatgpt-plus-pro-recharge/pro-100-200-500/)
-- [ChatGPT 充值后还是免费版怎么办](https://dsom-w.github.io/chatgpt-plus-pro-recharge/not-active/)
+- [充值后还是免费版怎么办](https://dsom-w.github.io/chatgpt-plus-pro-recharge/not-active/)
 - [ChatGPT 订阅怎么取消、能不能退款](https://dsom-w.github.io/chatgpt-plus-pro-recharge/cancel-refund/)
 - [苹果礼品卡充 ChatGPT 失败怎么办](https://dsom-w.github.io/chatgpt-plus-pro-recharge/gift-card-failed/)
 - [ChatGPT Plus 国内开通四种方法对比](https://dsom-w.github.io/chatgpt-plus-guide/)
