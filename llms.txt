@@ -9,7 +9,7 @@
 - [苹果礼品卡充 ChatGPT 失败怎么办？兑换不了、余额够却买不了的 8 种情况](https://dsom-w.github.io/chatgpt-plus-pro-recharge/gift-card-failed/): 苹果礼品卡充 ChatGPT 失败，先按兑换、订阅、到账、续费定位环节，切勿盲目再买新卡。本页整理礼品卡无法兑换、含税余额不足、无法进行应用内购买、扣款后仍是免费版等 8 种情况的处理办法，并说明礼品卡为什么开不了 Pro。
 - [ChatGPT Go、Plus、Pro 区别：按官方定价页逐项对比，该充哪一档](https://dsom-w.github.io/chatgpt-plus-pro-recharge/go-plus-pro/): ChatGPT Go Plus Pro 区别主要在推理模型、额度上限与是否含广告：免费版适合偶尔问答，Go 提高基础配额但可能含广告，Plus 解锁高级推理与更高编程额度，Pro 提供三档重度用量。本页按官方定价页逐项对比并给出选档建议。
 - [ChatGPT 充值后还是免费版？付了款没到账的 7 种情况与处理办法](https://dsom-w.github.io/chatgpt-plus-pro-recharge/not-active/): ChatGPT 充值没到账或付款后仍显示免费版，切勿重复下单付款。本页按查订单状态、核对登录账号、刷新缓存与恢复购买三步，逐条排查校验账号失败、订单待付款、隐藏邮箱错登等 7 种常见情况，附第三方平台与官方渠道处理办法。
-- [ChatGPT Pro 100、Pro 200、Pro 500 区别：月费、用量与超快模式怎么选](https://dsom-w.github.io/chatgpt-plus-pro-recharge/pro-100-200-500/): ChatGPT Pro 100、200 与 500 三档官方月费分别为 100、200、500 美元，核心差别在编程与工作会话的内含用量，且仅最高档提供超快模式。本页按官方说明整理三档用量现状、国内支付宝微信充值人民币价格与按需选档建议。
+- [ChatGPT Pro 100、Pro 200、Pro 500 区别：月费、用量与超快模式怎么选](https://dsom-w.github.io/chatgpt-plus-pro-recharge/pro-100-200-500/): ChatGPT Pro 100、200 与 500 三档官方月费分别为 100、200、500 美元，核心差别在编程与工作会话的内含用量高低，且仅最高档独占超快模式。本页按官方帮助中心说明整理三档最新用量规则、国内支付宝微信充值人民币价格与按需选档建议。
 
 ## 来源
 
